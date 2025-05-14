@@ -2,13 +2,13 @@
 
 This is a simple flutter chat app that allow users who have created account to chat amongest themselves
 
-## Tech Stack
+# Tech Stack
 
-# Frontend
+## Frontend
 
 Flutter
 
-# Backend
+## Backend
 
 Firebase for Aunthentication, database and messaging
 
