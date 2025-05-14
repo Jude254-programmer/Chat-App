@@ -1,16 +1,14 @@
-# bonjour
+# Chat App
 
-A new Flutter project.
+This is a simple flutter chat app that allow users who have created account to chat amongest themselves
 
-## Getting Started
+## Tech Stack
 
-This project is a starting point for a Flutter application.
+# Frontend
 
-A few resources to get you started if this is your first Flutter project:
+Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Backend
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase for Aunthentication, database and messaging
+
